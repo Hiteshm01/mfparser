@@ -19,7 +19,10 @@
     "CAS PDF"
   ],
   "dependencies": {
-    "pdf2json": "github:srijanshetty/pdf2json#master"
+    "googleapis": "^52.1.0",
+    "json2xls": "^0.1.2",
+    "pdf2json": "github:srijanshetty/pdf2json#master",
+    "xirr": "^1.0.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
